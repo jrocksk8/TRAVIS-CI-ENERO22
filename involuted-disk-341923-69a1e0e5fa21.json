@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "involuted-disk-341923",
+  "private_key_id": "69a1e0e5fa217cf730f9367c5f8992599d7de7c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHQlNoh+q/HGsA\nhSWO09SUMsAOdZvliUugam1AdzfLAjAVf0ORoZYqYE2HCPs3rL4LhfH7zZZKsJiP\nTqBrmuTe6ZnlRueryqzqAgk6k64//qe2yWDGGc4+UsWt07mfmIrM3G0E9hM3/Bp8\nSbmEN0NzeXgQBU70qgo1tvuPeXh9x6MM635xAy5G729U6TmR5Sv7EaSkZ0f/4Wgz\nWMxGTLrgt+gi1pmi81iwVjBS8XqpPGh/51ssZIhQ7aSc39h6lSj8+9orYQNBHqBu\nQfmIxyVB3pb5oE4XhDinNkRDn3T24Lg3809h6+0PWd/hsEAYncvVoPPKI2yqdXcp\nNYPXgmAVAgMBAAECggEAEIg+vl4Eio2zjQv/BT4rFY6uY6S7ZgyBo1IhNWeOz/+i\n+K2h8AvNlz99PzZuDXz+GZun66HvlcvYJI+7/KGR2rLcC2taHmVG+nVnyZ3mJ7Yb\nuS01I8qRU5dvglAeRxETdxLU0sQN7Se0FNrTExa4uHR8Eyw1lFQlW7aOYaWM6zaG\n2z3F+acFrHIiYHO1yS1QzT+mp8AnmE36tuYsCqfJGhah/6d91rCqfNXkgyD3QHvD\nNqCnkwsuOF96iaf2FGBeHl8GZ0y+bYAzX5I8vfQytk08ZvRoXbAGj3IAZlFABEcs\nJOYlKT7xxn8+C/Ym0Sl+Pqfk4+r65ueuRLnd5Tm1sQKBgQD/mvvSZL307+SI9a1/\nwUV1pHxXiNzirfFEaJUDupo0N7p0bZsBY26wFVuanSz1JXuhPHEu5A8iZPHpvYU+\ntP+3/41uZqGs9852DHQsNivWW3/C5zU3iAuuQwuTzTNMIJsrKSKq6fsIHTolVxLp\nXnfqSI8qgsU85kOFZqYdrXW8+QKBgQDHkRLmzs6W4/CdImCyQ4rhUdSO7kIWZD+0\nc9YHpEIJ5yANUWYt6IltzUQzyBtF3UCXsaLXw4f5QfFgYKML4QK3IOxZKA6EA3aW\n0a93rKCY0POFvp/BjVt680PQZEQUDLYZux2pyzKkJG23JF67cOZTqsVNRxdu4hZY\n2NiskZkO/QKBgQC69WG8QnOu9Mj0ZL7C81sa8XUBkdn+87vFjblxQMwJ5bk77++w\n1EniAb0/GjgIF6KWDN+8rJNlVPCdR0Ju23Uv4HxShD89hQQ+1F0k+XqXD9YjeXoz\nZA8nJ2MQeMdMp4zXxP7WhM5Y4QfmyAnNKIwNkYUmUwBxyvsYWDyo+HdmAQKBgQC7\nCHbrg9TQS65cxjRTvcNyKowIrLmZXLjruUhU/xe5Sjia4rfdvLrYAnGyCg+taY+4\n242fo6xS6f97cPY+EtLFqIB5inYYOVqyPLCze0FEF0i0BxSYhI/A6i6bJu060TL1\naI2DbWH3vgBpjRePml7y+PBS3ZbTn+aLvCdNjGMjTQKBgGJQtEEzp8dCtEs8ONKN\nzKdJt8dD28UL6zzFlXpv/euUCqaVknIQrrCghEiyavqlg+MztC/c8c2qPPvG3J6c\nWlaxjc/NaQ3BE1p0avRwISELuqin3JbWZogemkuhnk9J35wHnftDATrya6CamEvV\nUbeDGB7E0PR0c41Fg+6jkWOW\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-aforo255@involuted-disk-341923.iam.gserviceaccount.com",
+  "client_id": "115155660606045858237",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-aforo255%40involuted-disk-341923.iam.gserviceaccount.com"
+}
